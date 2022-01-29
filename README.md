@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://wiki.bitmessage.org/images/f/f1/Bitmessagelogo-reduced.png" alt="Bitmessage.org">
-
 # bitmessage-php
 PHP library for api interface in the Bitmessage software.
   
